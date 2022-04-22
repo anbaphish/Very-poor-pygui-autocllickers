@@ -1,0 +1,8 @@
+need to fix up a lot, last worked on in jan 2022
+
+-Fix issues with miner clicker, getting the keyboard shortcuts working for mining
+
+
+- setting up better automatic stuff
+
+- setting up image recognition for eating at low hunger, diamond recognition and lava avoidence. Probably requires custom texture pack for better working
